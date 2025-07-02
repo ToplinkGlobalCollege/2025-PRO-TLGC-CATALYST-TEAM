@@ -28,6 +28,9 @@ Meet the members of our team:
 This video offers an in depth overview of our self-driving vehicle’s design, showcases its performance in the Open Challenge, and explains how the robot functions within each task. To view the demonstration and see our project in action, please click the link or scan the QR code provided.
 
 # 1.1 Design
+Our autonomous self-driving car is built using the Lego 45544 Mindstorms EV3 Education Set.
+
+![image](https://github.com/user-attachments/assets/d040ca48-0c14-4fa7-a093-84faa663635f)
 
 # 1.2 Structure
 
