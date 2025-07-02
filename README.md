@@ -53,8 +53,6 @@ Our autonomous self-driving car is built using the Lego 45544 Mindstorms EV3 Edu
 
 # 3.2 Obstacle Challenge
 
-# 4.0 Engineering Factors
-
-# 5.0 Improvements
+# 4.0 Improvements
 
 # Credits
