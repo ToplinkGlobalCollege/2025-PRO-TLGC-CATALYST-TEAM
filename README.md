@@ -30,7 +30,9 @@ This video offers an in depth overview of our self-driving vehicle’s design, s
 # 1.1 Design
 Our autonomous self-driving car is built using the Lego 45544 Mindstorms EV3 Education Set.
 
-![image](https://github.com/user-attachments/assets/d040ca48-0c14-4fa7-a093-84faa663635f)
+
+![image](https://github.com/user-attachments/assets/395a3f6e-23ea-4600-a3ef-fab3b5bb87c8)
+
 
 # 1.2 Structure
 
