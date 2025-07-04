@@ -59,5 +59,6 @@ In our project, we use the Lego Mindstorms programming language to program the s
 # 3.2 Obstacle Challenge
 
 # 4.0 Improvements
+This section highlights the challenges faced during the development of our self-driving car and the alternative solutions we explored to improve its performance. By analyzing each issue in detail, we were able to apply enhancements that increased the car’s reliability and overall efficiency.
 
 # Credits
