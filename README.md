@@ -39,6 +39,7 @@ Our autonomous self-driving car is built using the Lego 45544 Mindstorms EV3 Edu
 In this section, the building instructions for the self-driving car can be accessed via the link or QR code below.
 
 # 2.0 Power and Sensor Management
+This section covers the power source of the self-driving car and the sensors used to provide it with the necessary information to navigate various challenges. It explains the reasoning behind the selection of each sensor and how they are integrated into the car, along with details on power consumption. A wiring diagram is also included for reference.
 
 # 2.1 Sensors
 
