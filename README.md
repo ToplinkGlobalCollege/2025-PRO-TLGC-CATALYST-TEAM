@@ -44,6 +44,8 @@ Our autonomous self-driving car is built using the Lego 45544 Mindstorms EV3 Edu
 # 2.2 Wiring Diagram
 
 # 2.3 Building Materials
+The following components have been incorporated into the self-driving car to support its core functions and ensure all systems work together effectively.
+
 
 # 2.4 Power Source
 
