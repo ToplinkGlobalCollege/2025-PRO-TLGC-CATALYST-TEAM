@@ -25,7 +25,7 @@ Meet the members of our team:
 
 
 # Performance Video
-This video offers an in depth overview of our self-driving vehicle’s design, showcases its performance in the Open Challenge, and explains how the robot functions within each task. To view the demonstration and see our project in action, please click the link or scan the QR code provided.
+This video offers an in depth overview of our self-driving vehicle's design, showcases its performance in the Open Challenge, and explains how the robot functions within each task. To view the demonstration and see our project in action, please click the link or scan the QR code provided.
 
 # 1.1 Design
 Our autonomous self-driving car is built using the Lego 45544 Mindstorms EV3 Education Set.
@@ -49,6 +49,7 @@ The following components have been incorporated into the self-driving car to sup
 
 
 # 2.4 Power Source
+We’ve powered our self-driving car using the EV3 rechargeable battery, which provides a stable energy supply to ensure smooth and consistent operation. This battery serves as the main power source for our robot.
 
 # 3.0 Obstacle Management
 In our project, we use the Lego Mindstorms programming language to program the self-driving car. The program is divided into two main parts: the Open Challenge and the Obstacle Challenge. This section includes a flowchart and a summary of the code used for both challenges. Each part is designed to address specific requirements and improve the self-driving cars performance in different scenarios, providing a clear understanding of how the vehicle operates under various conditions.
