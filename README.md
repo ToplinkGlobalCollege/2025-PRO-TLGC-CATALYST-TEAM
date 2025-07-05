@@ -47,6 +47,11 @@ This section covers the power source of the self-driving car and the sensors use
 
 # 2.3 Building Materials
 The following components have been incorporated into the self-driving car to support its core functions and ensure all systems work together effectively.
+![1](https://github.com/user-attachments/assets/4165895f-ea9b-4ac4-aae4-eb4bf59f07db)
+![2](https://github.com/user-attachments/assets/7e82c05a-2ff7-4f80-a1e7-d6b4a8affc9e)
+![3](https://github.com/user-attachments/assets/f9a42811-1783-46ce-b53d-ae727ea8e5f7)
+![4](https://github.com/user-attachments/assets/dd910aae-8a75-455a-a65b-37d7f111b2d3)
+![5](https://github.com/user-attachments/assets/a06284b9-1c7b-4f55-b662-ea29acad5259)
 
 
 # 2.4 Power Source
