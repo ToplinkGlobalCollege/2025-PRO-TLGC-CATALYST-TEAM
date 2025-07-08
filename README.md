@@ -6,7 +6,7 @@ This engineering documentation contains the technical materials and design speci
 
 **docs**- This folder contains documentation like the robot’s architecture, programming flow, and assembly instructions. Helps others understand our EV3 robot.
 
-**hardware**- This folder contains the EV3-specific hardware files, such as chassis designs, part configurations, or custom 3D-printed attachments.
+**hardware**- This folder contains the EV3-specific hardware files, chassis designs, and part configurations.
 
 **images**- This folder contains photos of our EV3 robot, design diagrams.
 
