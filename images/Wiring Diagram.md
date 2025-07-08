@@ -1,2 +1,1 @@
-![Screenshot 2025-07-08 144034](https://github.com/user-attachments/assets/bad771df-5840-48c8-8818-1aae22333cdb)
-
+![Future engineers Schematic](https://github.com/user-attachments/assets/0815a9d5-21c2-4ea9-ac4f-c7dd69c0dc6e)
