@@ -16,6 +16,4 @@ This engineering documentation contains the technical materials and design speci
 
 **video**- This folder contains our robot's run which is published on YouTube.
 
-# Materials
-
 # Credits
