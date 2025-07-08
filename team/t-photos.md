@@ -3,5 +3,7 @@ Our team consists of three dedicated members who carefully manage the key aspect
 
 Meet Our Members:
 **Marc Vincent B. Cortez**
+
 **Andrei Jerome M. Manalansan**
+
 **Yasser M. Lapaz**
