@@ -2,7 +2,7 @@
 This engineering documentation contains the technical materials and design specifications of the autonomous vehicle robot model developed for the Philippine Robotics Olympiad 2025 Future Engineers Competition.
 
 # Content
-**control**- This folder contains the scripts to control motors, and sensors on the EV3.
+**control**- This folder contains the file to control motors, and sensors on the EV3.
 
 **docs**- This folder contains documentation like the robot’s architecture, programming flow, and assembly instructions. Helps others understand our EV3 robot.
 
@@ -12,7 +12,7 @@ This engineering documentation contains the technical materials and design speci
 
 **software**- This folder contains the code used to control the EV3 robot.
 
-**team**- This folder contains info about the team members, their roles, and a team photo.on
+**team**- This folder contains info about the team members, their roles, and the team photos
 
 **video**- This folder contains our robot's run which is published on YouTube.
 
