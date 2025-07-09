@@ -8,3 +8,5 @@
 ![pixy](https://github.com/user-attachments/assets/2024ef7c-7071-4e03-9acd-6753681afbc9)
 # Gyro Sensor
 ![gyro sensor](https://github.com/user-attachments/assets/657df847-80a4-4856-8956-0e82b124e400)
+# Ev3 Intelligent Brick
+![lego-45500-ev3-intelligent-brick](https://github.com/user-attachments/assets/d4b93bbb-b4cc-4008-a0e1-320f307a0089)
