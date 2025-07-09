@@ -1,2 +1,1 @@
-![png-transparent-lego-mindstorms-ev3-lego-mindstorms-nxt-2-robot-electronics-text-logo](https://github.com/user-attachments/assets/d73d5d56-ff98-435b-ae12-2394338eb283)
-
+![334160](https://github.com/user-attachments/assets/144978b0-b2e9-43ba-a676-fe390cc9cb60)
