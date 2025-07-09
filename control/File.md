@@ -1,2 +1,2 @@
-![LEGO-MINDSTORMS-Logo-Vector svg-](https://github.com/user-attachments/assets/c7bd3e27-b9f3-4e9a-a291-a25ba89c0706)
+![png-transparent-lego-mindstorms-ev3-lego-mindstorms-nxt-2-robot-electronics-text-logo](https://github.com/user-attachments/assets/d73d5d56-ff98-435b-ae12-2394338eb283)
 
