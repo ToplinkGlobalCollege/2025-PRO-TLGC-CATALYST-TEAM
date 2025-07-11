@@ -8,7 +8,7 @@ Meet Our Members:
 
 **Andrei Jerome M. Manalansan**
 **Age:17**                     
-**Team Builder/Placer**
+**Team Builder/Placer**         
 I enjoy working with robots, mainly for school projects and competitions. I like solving problems and figuring out how to make robots move through different challenges. When I’m not working on robots, I enjoy watching movies like Stranger Things, I also enjoy playing video games.
 
 **Yasser M. Lapaz**           
