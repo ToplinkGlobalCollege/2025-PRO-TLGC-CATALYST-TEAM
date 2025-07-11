@@ -4,8 +4,12 @@ Our team consists of three dedicated members who carefully manage the key aspect
 Meet Our Members:
 
 **Marc Vincent B. Cortez**
+Team Captain/Coder
 
 **Andrei Jerome M. Manalansan**
+  **Team Builder/Placer**
+Andrei
 
 **Yasser M. Lapaz**
+Team Placer/Coder
 
