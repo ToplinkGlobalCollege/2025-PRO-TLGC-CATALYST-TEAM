@@ -10,6 +10,8 @@ This engineering documentation contains the technical materials and design speci
 
 **images**- This folder contains photos of our EV3 robot, design diagrams, wiring diagrams.
 
+**obstacle**-
+
 **software**- This folder contains the code used to control the EV3 robot.
 
 **team**- This folder contains info about the team members, their roles, and the team photos
