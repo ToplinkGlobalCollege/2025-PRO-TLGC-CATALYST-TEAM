@@ -11,6 +11,5 @@ Meet Our Members:
 Andrei
 
 **Yasser M. Lapaz**
-
 **Team Placer/Coder**
 
