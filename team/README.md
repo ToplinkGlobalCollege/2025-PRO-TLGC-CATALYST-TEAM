@@ -7,9 +7,10 @@ Meet Our Members:
 **Team Captain/Coder**
 
 **Andrei Jerome M. Manalansan**
-  **Team Builder/Placer**
+**Team Builder/Placer**
 Andrei
 
 **Yasser M. Lapaz**
+
 **Team Placer/Coder**
 
