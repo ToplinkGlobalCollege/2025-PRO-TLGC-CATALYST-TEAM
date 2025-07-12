@@ -8,9 +8,9 @@ This engineering documentation presents the technical details and design specifi
 
 **hardware**- This folder contains the EV3-specific hardware files, chassis designs, and part configurations.
 
-**improvement**- THis folder contains documentation and notes on hardware and software optimizations, such as better sensor placement, structural enhancements.
-
 **images**- This folder contains photos of our EV3 robot, design diagrams, wiring diagrams.
+
+**improvement**- THis folder contains documentation and notes on hardware and software optimizations, such as better sensor placement, structural enhancements.
 
 **obstacle**-This folder contains the strategies used by the robot to navigate the challenge course. It outlines how the robot detects, decides, and maneuvers around obstacles to maintain smooth and uninterrupted movement.
 
