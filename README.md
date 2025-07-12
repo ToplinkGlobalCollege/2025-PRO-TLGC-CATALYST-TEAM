@@ -4,8 +4,10 @@ This engineering documentation presents the technical details and design specifi
 # Content
 **docs**- Contains all documentation for the project, including robot architecture, programming flow, assembly instructions, improvement logs, and team information.
 
-**hardware**- Includes EV3 hardware-related files such as chassis designs, wiring layouts, and parts lists.
+**hardware**- Contains EV3 hardware-related files such as chassis designs, wiring layouts, and parts lists.
 
-**software**- This folder contains all source code used to program and control the EV3 robot.
+**media**- Contains visual assets such as robot photos, design diagrams, wiring schematics, and video recordings.
+
+**software**-  Contains all source code for the EV3 robot. This includes the main control program developed using LEGO Mindstorms, which manages motor control and sensor input to perform tasks and navigate the environment.
 
 # Credits
