@@ -9,7 +9,7 @@ Meet Our Members:
 **Andrei Jerome M. Manalansan**                                                                                                                                
 **Team Builder/Placer**                    
 **Age:17**          
-Andrei is a grade 12 student at Toplink Global College Inc. He enjoys working with robots, mainly for school projects and competitions. I like solving problems and figuring out how to make robots move through different challenges. When I’m not working on robots, I enjoy watching movies like Stranger Things, I also enjoy playing video games.
+Andrei is a grade 12 student at Toplink Global College Inc. He enjoys working with robots, mainly for school projects and competitions. He likes solving problems and figuring out how to make robots move through different challenges. When He's not working on robots, watches movies like Stranger Things, He also loves playing video games.
 
 **Yasser M. Lapaz**           
 **Team Placer/Coder**
