@@ -2,7 +2,7 @@
 This engineering documentation presents the technical details and design specifications of the autonomous vehicle robot developed by the TLGC Catalyst Future Engineer's Team for the Philippine Robotics Olympiad 2025
 
 # Content
-**control**- Contains the file to control the motors and sensors on the EV3 robot
+**control**- Contains the file for controlling the motors and sensors on the EV3 robot.
 
 **docs**- This folder contains documentation such as the robot’s architecture, programming flow, and assembly instructions, helping others understand our EV3 robot.
 
@@ -16,7 +16,7 @@ This engineering documentation presents the technical details and design specifi
 
 **software**- This folder Contains all source code used to program and control the EV3 robot.
 
-**team**- This folder contains information about the team members, their roles, and team photos
+**team**- This folder contains information about the team members, their roles, and team photos.
 
 **video**- This folder contains our robot's run which is published on YouTube.
 
