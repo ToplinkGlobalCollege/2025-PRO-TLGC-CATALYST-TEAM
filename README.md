@@ -14,7 +14,7 @@ This engineering documentation presents the technical details and design specifi
 
 **obstacle**-This folder contains the strategies used by the robot to navigate the challenge course. It outlines how the robot detects, decides, and maneuvers around obstacles to maintain smooth and uninterrupted movement.
 
-**software**- This folder Contains all source code used to program and control the EV3 robot.
+**software**- This folder contains all source code used to program and control the EV3 robot.
 
 **team**- This folder contains information about the team members, their roles, and team photos.
 
