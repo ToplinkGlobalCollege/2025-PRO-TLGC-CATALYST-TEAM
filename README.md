@@ -29,14 +29,14 @@ Marc is a grade 12 student at Toplink Global College Inc. He is passionate about
 **Team Builder/Placer**                    
 **Age:17**          
 
-Andrei is a grade 12 student at Toplink Global College Inc. He enjoys working with robots, mainly for school projects and competitions. He likes solving problems and figuring out how to make robots move through different challenges. When He's not working on robots, he watches movies like Stranger Things, He also loves playing video games.
+Andrei is also a grade 12 student at Toplink Global College Inc. He enjoys working with robots, mainly for school projects and competitions. He likes solving problems and figuring out how to make robots move through different challenges. When He's not working on robots, he watches movies like Stranger Things, He also loves playing video games.
 
 
 **Yasser M. Lapaz**(Middle)                                                                                                                                       
 **Team Placer/Coder**                                                                                                                                             
 **Age:17**
 
-Yasser is a fitness enthusiast with a strong sense of self discipline and passion for personal growth. He finds freedom and adventure in motorcycle travel, embracing the open road with every ride. Deeply connected to both music and gaming, he often immerses himself in rhythm and virtual challenges. As a coder, Yasser is curious and constantly exploring new programming languages and techniques. He enjoys solving problems, building digital tools, and uncovering how systems work beneath the surface. Whether he's lifting weights, riding his motorcycle, or writing code, Yasser approaches life with energy, creativity, and an unwavering drive to push his limits.
+Yasser is also a grade 12 student at Toplink Global College Inc. He is a fitness enthusiast with a strong sense of self discipline and passion for personal growth. He finds freedom and adventure in motorcycle travel, embracing the open road with every ride. Deeply connected to both music and gaming, he often immerses himself in rhythm and virtual challenges. As a coder, Yasser is curious and constantly exploring new programming languages and techniques. He enjoys solving problems, building digital tools, and uncovering how systems work beneath the surface. Whether he's lifting weights, riding his motorcycle, or writing code, Yasser approaches life with energy, creativity, and an unwavering drive to push his limits.
 
 # Materials
 Our autonomous self-driving car was developed using the LEGO Mindstorms EV3 Education Set (45544) and LEGO Mindstorms Education EV3 Expansion Set (45544)
