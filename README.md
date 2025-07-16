@@ -16,21 +16,23 @@ This engineering documentation presents the technical details and design specifi
 # TLGC Robotics Catalyst Team
 Our team consists of three dedicated members who carefully manage the key aspects of our autonomous vehicle’s development. Representing Toplink Global College, the Future Engineers Team is a passionate group committed to optimizing the essential electromechanical systems that drive our fully autonomous robot.
 
-**Marc Vincent B. Cortez**    
+![Future Engineers Team Photo](https://github.com/user-attachments/assets/275cc0c6-ded0-43f2-af96-ff63b8f0492a)
+
+**Marc Vincent B. Cortez**(Right)
 **Team Captain/Coder**
 **Age:17**
 
 Marc is a grade 12 student at Toplink Global College Inc. He is passionate about coding, mobile games, and technology. He enjoys developing programs and uncovering the mechanics behind the games he plays. Beyond the screen, he’s a dedicated cyclist and finds joy in playing the guitar. With a blend of creativity and focus, Marc balances logic with artistic expression, always striving to learn, improve, and grow.
 
 
-**Andrei Jerome M. Manalansan**                                                                                                                                
+**Andrei Jerome M. Manalansan**(Left)                                                                                                                             
 **Team Builder/Placer**                    
 **Age:17**          
 
 Andrei is a grade 12 student at Toplink Global College Inc. He enjoys working with robots, mainly for school projects and competitions. He likes solving problems and figuring out how to make robots move through different challenges. When He's not working on robots, he watches movies like Stranger Things, He also loves playing video games.
 
 
-**Yasser M. Lapaz**           
+**Yasser M. Lapaz**(Middle)           
 **Team Placer/Coder**
 **Age:17**
 
