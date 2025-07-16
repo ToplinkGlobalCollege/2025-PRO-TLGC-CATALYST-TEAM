@@ -124,3 +124,7 @@ We improved the robot by replacing the color sensor with a gyro sensor, since th
 ![Improvement 3 2(1 1)](https://github.com/user-attachments/assets/6dfa9d75-57b3-456e-af80-f41d7e5564f7)
 
 
+> [!NOTE]
+> The other improvements is inside the docs folder
+
+
