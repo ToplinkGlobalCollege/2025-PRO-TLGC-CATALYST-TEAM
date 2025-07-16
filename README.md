@@ -29,8 +29,13 @@ Andrei is a grade 12 student at Toplink Global College Inc. He enjoys working wi
 **Team Placer/Coder**
 
 # Materials
-Our autonomous self-driving car was developed using the LEGO Mindstorms EV3 Education Set (45544)
+Our autonomous self-driving car was developed using the LEGO Mindstorms EV3 Education Set (45544) and LEGO Mindstorms Education EV3 Expansion Set (45544)
 ![45544-1-0-removebg-preview](https://github.com/user-attachments/assets/7b6e5ab7-0c0d-43d3-89e1-20ac8d9be258)
+<img width="500" height="500" alt="Lego Mindstrom Expansion Set " src="https://github.com/user-attachments/assets/54831924-3041-4191-8ca0-946f1caf6f2f" />
+
+
+> [!NOTE]
+> The list of the materials used in our robot is inside the hardware folder
 
 # Chassis
 
