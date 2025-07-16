@@ -11,7 +11,7 @@ This engineering documentation presents the technical details and design specifi
 **software**-  Contains all source code for the EV3 robot. This includes the main control program developed using LEGO Mindstorms, which manages motor control and sensor input to perform tasks and navigate the environment.
 
 > [!NOTE]
-> Not all information is within this README.md some are inside the folders.
+> This README.md doesn't contain all the information, some details are inside the folders
 
 # TLGC Robotics Catalyst Team
 Our team consists of three dedicated members who carefully manage the key aspects of our autonomous vehicle’s development. Representing Toplink Global College, the Future Engineers Team is a passionate group committed to optimizing the essential electromechanical systems that drive our fully autonomous robot.
