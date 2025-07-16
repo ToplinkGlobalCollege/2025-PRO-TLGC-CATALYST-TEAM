@@ -1,5 +1,5 @@
 # Introduction
-This engineering documentation contains the technical materials and design specifications of the autonomous vehicle robot model developed for the Philippine Robotics Olympiad 2025 Future Engineers Competition.
+This engineering documentation presents the technical details and design specifications of the autonomous vehicle robot developed by the TLGC Catalyst Future Engineer's Team for the Philippine Robotics Olympiad 2025
 
 # Content
 **docs**- Contains all documentation for the project, including robot architecture, programming flow, assembly instructions, improvement logs, and team information.
@@ -10,4 +10,5 @@ This engineering documentation contains the technical materials and design speci
 
 **software**-  Contains all source code for the EV3 robot. This includes the main control program developed using LEGO Mindstorms, which manages motor control and sensor input to perform tasks and navigate the environment.
 
+# TLGC Catalyst Team
 
