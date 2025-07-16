@@ -104,3 +104,6 @@ A gyro sensor is attached, It helps the robot measure how many full turns or lap
 Our robot uses a pixy2 camera helps the robot detect colored objects in front of it. In our setup, it looks for two specific colors: green and red. These colors tell the robot which way to go when it sees an obstacle. If the Pixy2 sees a green object, the robot knows it should turn left. If it sees a red object, the robot will turn right. This helps the robot make quick decisions during the run and choose the correct path based on what color it detects ahead.
 
 # Code & Control Used
+![334160](https://github.com/user-attachments/assets/144978b0-b2e9-43ba-a676-fe390cc9cb60)
+
+We used LEGO Mindstorms to program our EV3 robot, managing motor control and sensor input to perform tasks and navigate its environment.
