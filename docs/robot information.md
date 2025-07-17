@@ -22,6 +22,7 @@ Our EV3 autonomous robot employs a custom front wheel steering mechanism based o
 <img width="333" height="333" alt="ar-ev3-medium-servo-motor-1139-removebg-preview" src="https://github.com/user-attachments/assets/b7e79cc4-5961-4763-a34b-bb36f2e45b51" />
 
 ## Why we chose this system
+We used the Large Motor to drive our robot forward because it’s strong and can handle the weight of the robot. It gives enough power to move smoothly across the mat and works well for straight driving. The Medium Motor is smaller and quicker, so we used it for steering. It’s just the right size for turning the front wheels without making the robot too heavy or bulky. This combination of one strong motor for driving and one small motor for steering helped make our robot both powerful and easy to control.
 
 # Power System
 ## Main Power Source
