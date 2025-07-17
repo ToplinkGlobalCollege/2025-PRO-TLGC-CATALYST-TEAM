@@ -1,18 +1,18 @@
-**Marc Vincent B. Cortez**(Right)                                                                                                                                 
+**Marc Vincent B. Cortez**                                                                                                                                       
 **Team Captain/Coder**                                                                                                                                            
 **Age:17**
 
 Marc is a grade 12 student at Toplink Global College Inc. He is passionate about coding, mobile games, and technology. He enjoys developing programs and uncovering the mechanics behind the games he plays. Beyond the screen, he’s a dedicated cyclist and finds joy in playing the guitar. With a blend of creativity and focus, Marc balances logic with artistic expression, always striving to learn, improve, and grow.
 
 
-**Andrei Jerome M. Manalansan**(Left)                                                                                                                             
-**Team Builder/Placer**                    
+**Andrei Jerome M. Manalansan**                                                                                                                                  
+**Team Builder/Placer**                                                                                                                                                          
 **Age:17**          
 
 Andrei is also a grade 12 student at Toplink Global College Inc. He enjoys working with robots, mainly for school projects and competitions. He likes solving problems and figuring out how to make robots move through different challenges. When He's not working on robots, he watches movies like Stranger Things, He also loves playing video games.
 
 
-**Yasser M. Lapaz**(Middle)                                                                                                                                       
+**Yasser M. Lapaz**                                                                                                                                                        
 **Team Placer/Coder**                                                                                                                                             
 **Age:17**
 
