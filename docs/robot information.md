@@ -12,9 +12,12 @@
 Our EV3 autonomous car uses a single LEGO Large Motor to drive forward. The motor is connected to the main wheels, providing consistent power and speed for straight movement. Because we only used one motor. The Large Motor’s built in rotation sensor helps us measure how far the car moves, making it easier to control and program. This simple setup keeps the robot lightweight, efficient, and ideal for straightforward autonomous driving.
 
 ## Turning Strategy
-Our robot uses a front steering mechanism inspired by the rack and pinion system to control its direction. Instead of a full gear rack, we used a half gear piece connected to a beam. When the gear rotates, it pushes the beam side to side, which turns the front wheels left or right. This setup allows the robot to steer smoothly and accurately, making it easier to change direction on the mat. The system provides controlled and stable movement during turns, helping the robot navigate the field more consistently during competitions.
+Our EV3 autonomous robot employs a custom front wheel steering mechanism based on the principles of a rack and pinion system. Instead of using a traditional gear rack, the design incorporates a half gear element attached to a beam that functions as a simplified rack. As the gear rotates driven by a motor or manually pre set it translates the beam laterally, causing the front wheels to pivot left or right. This mechanical linkage enables smooth and proportional steering control. The configuration allows for stable directional changes and improves maneuverability on the field, especially during precise turns and alignment tasks. The simplicity of this setup also reduces mechanical complexity while maintaining reliable performance during competition runs.
 
 ## Motors Used
+### Large Motor
+
+### Medium Motor
 
 ## Why we chose this system
 
