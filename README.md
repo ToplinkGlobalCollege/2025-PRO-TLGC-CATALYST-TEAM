@@ -1,3 +1,5 @@
+> [!TIP]
+> We recommend using dark mode when reading this repository
 # Introduction
 This engineering documentation presents the technical details and design specifications of the autonomous vehicle robot developed by the TLGC Catalyst Future Engineer's Team for the Philippine Robotics Olympiad 2025
 
