@@ -157,3 +157,4 @@ We made sure the connections were clean and well insulated, using electrical tap
 
 Once everything was connected, the EV3 was able to communicate with the PixyCam2 right away. The camera sent information about what it could see like object locations and colors and the EV3 used that data to control the robot’s actions. With this setup, our robot could follow lines, detect certain colors, and respond to moving objects just like a more advanced machine, but using only LEGO parts and a smart camera.
 
+# Credits 
