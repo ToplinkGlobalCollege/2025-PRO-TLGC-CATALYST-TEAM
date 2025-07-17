@@ -26,14 +26,18 @@ We used the Large Motor to drive our robot forward because it’s strong and can
 
 # Power System
 ## Main Power Source
+We’ve powered our self-driving car using the EV3 rechargeable battery, which provides a stable energy supply to ensure smooth and consistent operation. This battery serves as the main power source for our robot.
+<img width="1335" height="1696" alt="Battery Source" src="https://github.com/user-attachments/assets/5939e7b1-b03f-4d41-bfef-d27653e3c9d5" />
 
 ## Voltage and Current Details
+Our EV3 robot uses a rechargeable lithium ion battery that provides a voltage of 7.2 volts and a capacity of 2050 mAh. This means the battery can supply 2.05 amps of current for one hour before needing a recharge, depending on how much power the robot uses. The battery is powerful enough to run the EV3 brick, motors, and sensors all at once. It also keeps the power stable, which helps the robot perform consistently. Since it’s rechargeable, it’s more convenient and cost effective than using disposable batteries, especially for long practices and competitions.
 
 ## Power Safety & Management
-
+To keep our EV3 robot safe and reliable, we followed good power safety and management practices. We made sure the rechargeable battery was always fully charged before each run, and we turned off the EV3 brick after use to save power and prevent overheating. To avoid short circuits or accidental contact between exposed wires or metal parts, we also applied insulating materials around key connections. This helped protect both the robot and the people handling it. By managing power carefully and using insulation, we made sure the robot stayed safe, stable, and ready for every test and competition round.
 # Obstacle Avoidment
 
 ## Sensors Used for Detection
+### Pixy Cam 2
 
 ## Strategy
 
