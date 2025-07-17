@@ -113,6 +113,9 @@ We used LEGO Mindstorms to program our EV3 robot, managing motor control and sen
 <img width="1849" height="269" alt="Screenshot 2025-07-17 150752" src="https://github.com/user-attachments/assets/b3a832b6-4d12-4b35-bd53-028e5075961b" />
 <img width="1621" height="233" alt="Screenshot 2025-07-17 150808" src="https://github.com/user-attachments/assets/15b256b6-7da4-4d13-9375-b8e09984ce1b" />
 
+> [!NOTE]
+> The code starts from the top to bottom 
+
 To maintain our robot's position at the center of a corridor or path, we placed two ultrasonic sensors on the left and right sides of the chassis. These sensors continuously measure the distance to the nearest wall on each side. The key idea is to calculate the difference between the left and right distances this difference is treated as the system’s error. We multiply this error by a proportional gain constant to determine how much the robot should steer. This method, called proportional control, lets our robot automatically adjust its direction depending on how far it has drifted from the center. For example, if the left distance is greater than the right, the robot is too close to the right wall and needs to steer left to correct itself, and vice versa. This feedback system allows the robot to constantly make small adjustments to stay centered.
 
 ## Obstacle Challenge
@@ -124,6 +127,8 @@ To maintain our robot's position at the center of a corridor or path, we placed 
 <img width="1886" height="444" alt="Screenshot 2025-07-17 150135" src="https://github.com/user-attachments/assets/924e5265-7e6e-44f1-8d47-b8b5cb50b74a" />
 <img width="1050" height="429" alt="Screenshot 2025-07-17 150352" src="https://github.com/user-attachments/assets/752be521-fa7b-4db4-9e98-e4ea5730cd8d" />
 
+> [!NOTE]
+> The code starts from the top to bottom
 
 Our robot was designed to move by itself, stay centered between walls, and avoid obstacles in its path. To do this, we combined two types of sensors: ultrasonic sensors and a color detecting Pixy Cam. The ultrasonic sensors are placed on the left and right sides of the robot. These sensors act like the robot’s ears, constantly measuring the distance from each wall. If the robot gets too close to one side, it automatically steers back toward the center. This is done using a method called proportional control, where the robot adjusts its steering based on how off center it is the farther it is from the middle, the more it turns to correct its path.
 
