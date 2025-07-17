@@ -8,8 +8,24 @@
                                                                                                                                                                     
 # Mobility
 
+## Drive System Used
+
+## Turning Strategy
+
+## Motors Used
+
+## Why we chose this system
+
 # Power System
+## Main Power Source
+
+## Voltage and Current Details
+
+## Power Safety & Management
 
 # Obstacle Avoidment
 
+## Sensors Used for Detection
+
+## Strategy
 
