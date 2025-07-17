@@ -64,7 +64,7 @@ This setup follows the principle of separating movement and control we use a lig
 
 ## Execution Of Steering
 
-![Steering](https://github.com/user-attachments/assets/b5ffc7ad-a860-4c00-b7b5-96ffdd53739f)
+![Steering (1)](https://github.com/user-attachments/assets/cf54a7b6-2063-4345-b599-76eb8488704c)
 
 Our robot uses a rack and pinion steering system at the front to control its direction. This setup works by turning a gear that moves a bar side to side, which makes the front wheels turn left or right. It allows the robot to steer smoothly and accurately, making it easy to change direction on the mat. With this type of steering, the robot can move in a controlled and stable way, especially during turns. The system helps ensure that movement stays smooth and consistent, which is important for navigating around the field during the competition.
 
