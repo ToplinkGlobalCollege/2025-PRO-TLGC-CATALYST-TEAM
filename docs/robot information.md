@@ -5,7 +5,7 @@
 **Weight:** 0.8 kg
                                                                                                                                                                    
 **Size:** 270mm x 170mm with 150mm in height
-                                                                                                                                                                    > [!NOTE]
+                                                                                                                                                                  > [!NOTE]
 > ff
 # Mobility
 
