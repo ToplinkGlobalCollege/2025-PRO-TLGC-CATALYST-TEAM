@@ -41,4 +41,8 @@ To keep our EV3 robot safe and reliable, we followed good power safety and manag
 <img width="378" height="480" alt="PIXY2-Camera-378x480-removebg-preview" src="https://github.com/user-attachments/assets/91683fe7-6888-4859-9258-9e515214c627" />
 
 ## Strategy
+To improve our robot’s ability to detect visual markers and environmental cues, we mounted the Pixy Cam on top of the robot. This elevated position gives the camera a wider field of view, allowing it to detect obstacles from a greater distance and with fewer blind spots. Placing the camera higher also prevents it from being blocked by parts of the robot’s frame, which improves both its accuracy and response time during object recognition.
 
+For navigation, we angled the ultrasonic sensors at 45 degrees on each side of the robot. This strategic placement enables the sensors to measure both forward and side distances to nearby walls. As a result, the robot receives more reliable and consistent distance data, helping it stay centered in narrow paths or corridors. By continuously comparing the left and right sensor values, the robot can make precise steering adjustments to maintain a straight and balanced course critical for avoiding collisions and achieving consistent lap performance.
+
+Additionally, as part of our walling strategy, we installed a free-rolling wheel on the side of the robot to serve as a stabilizer. This wheel gently rolls along the walls surface without causing friction or drag. It helps the robot stay aligned by allowing slight contact with the wall, effectively “hugging” it without scraping or stopping, which results in smoother and more stable navigation.
