@@ -179,6 +179,6 @@ We improved the robot by replacing the color sensor with a gyro sensor, since th
 > [!NOTE]
 > The other improvements is inside the docs folder
 # Credits 
-We would like to express our heartfelt appreciation to LEGO Mindstorms for providing the robotics set that made this project possible. The high quality components and flexible design of the EV3 kit allowed us to explore, build, and learn through hands on experience. We are also deeply thankful to our beloved coach, whose patience, guidance, and encouragement inspired us throughout this journey. Finally, we are proud to represent our school(Toplink Global College Inc.), which continues to support our passion for robotics and innovation.
+We would like to express our heartfelt appreciation to LEGO Mindstorms for providing the robotics set that made this project possible. The high quality components and flexible design of the EV3 kit allowed us to explore, build, and learn through hands on experience. We are also deeply thankful to our beloved coach, whose patience, guidance, and encouragement inspired us throughout this journey. Finally, we are proud to represent our school (Toplink Global College Inc.) , which continues to support our passion for robotics and innovation.
 
 
