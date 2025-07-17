@@ -4,7 +4,7 @@ This engineering documentation presents the technical details and design specifi
 # Content
 **docs**- Contains all documentation for the project, including robot architecture, programming flow, assembly instructions, improvement logs, and team information.
 
-**hardware**- Contains EV3 hardware-related files such as chassis designs, wiring layouts, and parts lists.
+**hardware**- Contains EV3 hardware related files such as chassis designs, wiring layouts, and parts lists.
 
 **media**- Contains visual assets such as robot photos, design diagrams, wiring schematics, and video recordings.
 
