@@ -9,6 +9,7 @@
 # Mobility
 
 ## Drive System Used
+Our EV3 autonomous car uses a single LEGO Large Motor to drive forward. The motor is connected to the main wheels, providing consistent power and speed for straight movement. Because we only used one motor. The Large Motor’s built in rotation sensor helps us measure how far the car moves, making it easier to control and program. This simple setup keeps the robot lightweight, efficient, and ideal for straightforward autonomous driving.
 
 ## Turning Strategy
 
