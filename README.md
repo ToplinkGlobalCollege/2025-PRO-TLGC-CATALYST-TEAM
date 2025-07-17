@@ -135,9 +135,13 @@ We wanted our LEGO EV3 robot to have vision so it could follow lines, detect col
 
 Normally, PixyCam2 connects to things like Arduino or Raspberry Pi, using standard electronic signals. But the EV3 uses special LEGO ports that aren’t directly compatible. To make them work together, we built a custom cable. We took a regular LEGO sensor cable like the kind used for a touch or ultrasonic sensor and cut one end off to expose the wires inside.
 
+<img width="433" height="577" alt="IMG_20250717_152335_773-removebg-preview" src="https://github.com/user-attachments/assets/da56e3f1-6093-4f0d-b7e6-b483c668475c" />
+
 Next, we connected those wires to jumper wires, which could plug into the small pins on the PixyCam2’s port. Then we matched the correct wires for power, ground, and data, based on the Pixy LEGO firmware documentation. This allowed the EV3 to recognize the PixyCam2 just like it would a LEGO color or ultrasonic sensor.
 
 We made sure the connections were clean and well insulated, using electrical tape or heat shrink tubing to prevent any short circuits. Since both devices use the same 5V power level, we didn’t need any extra electronics to make it safe.
+
+<img width="420" height="594" alt="Untitled_design-removebg-preview" src="https://github.com/user-attachments/assets/b59880e3-d8ba-442a-bb2c-79cf9c450bc4" />
 
 Once everything was connected, the EV3 was able to communicate with the PixyCam2 right away. The camera sent information about what it could see like object locations and colors and the EV3 used that data to control the robot’s actions. With this setup, our robot could follow lines, detect certain colors, and respond to moving objects just like a more advanced machine, but using only LEGO parts and a smart camera.
 
