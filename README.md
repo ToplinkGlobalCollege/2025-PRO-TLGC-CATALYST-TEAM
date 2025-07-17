@@ -109,13 +109,15 @@ We used LEGO Mindstorms to program our EV3 robot, managing motor control and sen
 # Code Management
 
 ## Open Challenge
+
+## Obstacle Challenge
 <img width="1879" height="705" alt="Obstacle Challenge (1)" src="https://github.com/user-attachments/assets/42b72463-3bb3-44de-b486-76440f4b252c" />
 <img width="1895" height="702" alt="Obstacle Challenge (5)" src="https://github.com/user-attachments/assets/b599681f-d853-4086-9c5a-091cbaa361a9" />
 <img width="1876" height="709" alt="Obstacle Challenge (4)" src="https://github.com/user-attachments/assets/5e46fec1-446e-4796-930a-37df1af20d40" />
 <img width="1906" height="690" alt="Obstacle Challenge (3)" src="https://github.com/user-attachments/assets/7132e59a-4c38-4035-8f16-efc3354c0f5f" />
 <img width="1884" height="653" alt="Obstacle Challenge (2)" src="https://github.com/user-attachments/assets/c3c631c5-5c37-44fe-a147-b4150a1af4c1" />
+<img width="1884" height="653" alt="Obstacle Challenge (2)" src="https://github.com/user-attachments/assets/c3c631c5-5c37-44fe-a147-b4150a1af4c1" />
 
-## Obstacle Challenge
 In the field of autonomous robotics, achieving smooth and intelligent navigation is one of the key challenges. A common task is to design a robot car that can steer itself while staying centered between obstacles or walls, and avoid objects based on visual detection. One effective solution combines ultrasonic sensors for real-time distance measurement with proportional control (P-gain) for steering, and a Pixy Cam to recognize colored obstacles and determine direction. Together, these components create a responsive and adaptable navigation system suitable for various robotics applications.
 
 To maintain the robot's position at the center of a corridor or path, two ultrasonic sensors are placed on the left and right sides of the car. These sensors continuously measure the distance to the nearest  wall on each side. The key idea is to compute the difference between the left and right distances, which serves as the system’s error signal. This error is then multiplied by a proportional gain constant (Kp) to determine the amount of steering adjustment needed. This method, known as proportional control, allows the robot to steer left or right depending on how far it has drifted from the center. If the left distance is greater than the right, the car is too close to the right wall and must steer left to correct its course, and vice versa. This feedback loop ensures the robot continuously makes small adjustments to remain in the center.
