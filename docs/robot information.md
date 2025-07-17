@@ -38,6 +38,7 @@ To keep our EV3 robot safe and reliable, we followed good power safety and manag
 
 ## Sensors Used for Detection
 ### Pixy Cam 2
+<img width="378" height="480" alt="PIXY2-Camera-378x480-removebg-preview" src="https://github.com/user-attachments/assets/91683fe7-6888-4859-9258-9e515214c627" />
 
 ## Strategy
 
