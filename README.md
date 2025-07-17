@@ -21,14 +21,15 @@ Our team consists of three dedicated members who carefully manage the key aspect
 ![Future Engineers Team Photo](https://github.com/user-attachments/assets/275cc0c6-ded0-43f2-af96-ff63b8f0492a)
 
 **Marc Vincent B. Cortez**(Right)                                                                                                                              
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/marcvincent.cortez.56)                                                        
 
-**Andrei Jerome M. Manalansan**(Left)
-[![Facebook](https://img.shields.io/badge/Facebook-Page-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/16bncUjy9o/)
-
-https://www.facebook.com/share/16bncUjy9o/                                                                                                                 
-https://www.instagram.com/beezlebobbb?igsh=aDJhdGhrMmpxZzFn
+**Andrei Jerome M. Manalansan**(Left)                                                                                                                                                                             
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/16bncUjy9o/)                                                           
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-833AB4?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/beezlebobbb?igsh=aDJhdGhrMmpxZzFn)
 
 **Yasser M. Lapaz**(Middle)                                                                                                                                    
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/19XDXVnvCL/)                                                           
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-833AB4?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yassermwa?igsh=aXd5Y25waTljajRj)
 
 > [!NOTE]
 > The team information is at the docs folder
@@ -178,6 +179,6 @@ We improved the robot by replacing the color sensor with a gyro sensor, since th
 > [!NOTE]
 > The other improvements is inside the docs folder
 # Credits 
-We would like to express our heartfelt appreciation to LEGO Mindstorms for providing the robotics set that made this project possible. The high quality components and flexible design of the EV3 kit allowed us to explore, build, and learn through hands on experience. We are also deeply thankful to our beloved coach, whose patience, guidance, and encouragement inspired us throughout this journey. Finally, we are proud to represent our school, which continues to support our passion for robotics and innovation.
+We would like to express our heartfelt appreciation to LEGO Mindstorms for providing the robotics set that made this project possible. The high quality components and flexible design of the EV3 kit allowed us to explore, build, and learn through hands on experience. We are also deeply thankful to our beloved coach, whose patience, guidance, and encouragement inspired us throughout this journey. Finally, we are proud to represent our school(Toplink Global College Inc.), which continues to support our passion for robotics and innovation.
 
 
