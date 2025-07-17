@@ -24,6 +24,8 @@ Our team consists of three dedicated members who carefully manage the key aspect
 
 **Yasser M. Lapaz**(Middle)                                                                                                                                    
 
+> [!NOTE]
+> The team information is at the docs folder
 # Materials
 Our autonomous self-driving car was developed using the LEGO Mindstorms EV3 Education Set (45544) and LEGO Mindstorms Education EV3 Expansion Set (45544)
 
