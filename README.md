@@ -66,7 +66,7 @@ This setup follows the principle of separating movement and control we use a lig
 
 ![Steering (1)](https://github.com/user-attachments/assets/cf54a7b6-2063-4345-b599-76eb8488704c)
 
-Our robot uses a rack and pinion steering system at the front to control its direction. This setup works by turning a gear that moves a bar side to side, which makes the front wheels turn left or right. It allows the robot to steer smoothly and accurately, making it easy to change direction on the mat. With this type of steering, the robot can move in a controlled and stable way, especially during turns. The system helps ensure that movement stays smooth and consistent, which is important for navigating around the field during the competition.
+Our robot uses a front steering mechanism inspired by the rack and pinion system to control its direction. Instead of a full gear rack, we used a half gear piece connected to a beam. When the gear rotates, it pushes the beam side to side, which turns the front wheels left or right. This setup allows the robot to steer smoothly and accurately, making it easier to change direction on the mat. The system provides controlled and stable movement during turns, helping the robot navigate the field more consistently during competitions.
 
 # Energy and Sensor Management
 This section covers the power source of the self driving car and the sensors used to provide it with the necessary information to navigate various challenges. It explains the reasoning behind the selection of each sensor and how they are integrated into the car, along with details on power consumption. A wiring diagram is also included for reference.
