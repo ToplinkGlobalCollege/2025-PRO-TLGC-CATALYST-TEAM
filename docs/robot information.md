@@ -6,7 +6,7 @@
                                                                                                                                                                    
 **Size:** 270mm x 170mm with 150mm in height
                                                                                                                                                                     > [!NOTE]
-> 
+> ff
 # Mobility
 
 ## Drive System Used
