@@ -111,12 +111,14 @@ We used LEGO Mindstorms to program our EV3 robot, managing motor control and sen
 ## Open Challenge
 
 ## Obstacle Challenge
-<img width="1879" height="705" alt="Obstacle Challenge (1)" src="https://github.com/user-attachments/assets/42b72463-3bb3-44de-b486-76440f4b252c" />
-<img width="1895" height="702" alt="Obstacle Challenge (5)" src="https://github.com/user-attachments/assets/b599681f-d853-4086-9c5a-091cbaa361a9" />
-<img width="1876" height="709" alt="Obstacle Challenge (4)" src="https://github.com/user-attachments/assets/5e46fec1-446e-4796-930a-37df1af20d40" />
-<img width="1906" height="690" alt="Obstacle Challenge (3)" src="https://github.com/user-attachments/assets/7132e59a-4c38-4035-8f16-efc3354c0f5f" />
-<img width="1884" height="653" alt="Obstacle Challenge (2)" src="https://github.com/user-attachments/assets/c3c631c5-5c37-44fe-a147-b4150a1af4c1" />
-<img width="1884" height="653" alt="Obstacle Challenge (2)" src="https://github.com/user-attachments/assets/c3c631c5-5c37-44fe-a147-b4150a1af4c1" />
+<img width="1815" height="704" alt="Screenshot 2025-07-17 145845" src="https://github.com/user-attachments/assets/e561b8e3-3959-4bf5-8ebd-f3238a258bfb" />
+<img width="1144" height="458" alt="Screenshot 2025-07-17 145955" src="https://github.com/user-attachments/assets/d209d8fa-bd4e-4f5b-a84b-98e651823204" />
+<img width="1082" height="227" alt="Screenshot 2025-07-17 150017" src="https://github.com/user-attachments/assets/dc8bb6aa-6b2f-46f3-8302-d2df28e588a5" />
+<img width="1200" height="448" alt="Screenshot 2025-07-17 150042" src="https://github.com/user-attachments/assets/984bcb9a-e719-4ac4-8ae9-12be06834efb" />
+<img width="1752" height="466" alt="Screenshot 2025-07-17 150108" src="https://github.com/user-attachments/assets/eeb88ce5-848e-4b8e-8636-afbda827438d" />
+<img width="1886" height="444" alt="Screenshot 2025-07-17 150135" src="https://github.com/user-attachments/assets/924e5265-7e6e-44f1-8d47-b8b5cb50b74a" />
+<img width="1050" height="429" alt="Screenshot 2025-07-17 150352" src="https://github.com/user-attachments/assets/752be521-fa7b-4db4-9e98-e4ea5730cd8d" />
+
 
 Our robot was designed to move by itself, stay centered between walls, and avoid obstacles in its path. To do this, we combined two types of sensors: ultrasonic sensors and a color detecting Pixy Cam. The ultrasonic sensors are placed on the left and right sides of the robot. These sensors act like the robot’s ears, constantly measuring the distance from each wall. If the robot gets too close to one side, it automatically steers back toward the center. This is done using a method called proportional control, where the robot adjusts its steering based on how off center it is the farther it is from the middle, the more it turns to correct its path.
 
