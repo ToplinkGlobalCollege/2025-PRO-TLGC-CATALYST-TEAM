@@ -135,6 +135,15 @@ We improved the robot by replacing the color sensor with a gyro sensor, since th
 <img width="1884" height="653" alt="Obstacle Challenge (2)" src="https://github.com/user-attachments/assets/c3c631c5-5c37-44fe-a147-b4150a1af4c1" />
 
 ## Obstacle Challenge
+In the field of autonomous robotics, achieving smooth and intelligent navigation is one of the key challenges. A common task is to design a robot car that can steer itself while staying centered between obstacles or walls, and avoid objects based on visual detection. One effective solution combines ultrasonic sensors for real-time distance measurement with proportional control (P-gain) for steering, and a Pixy Cam to recognize colored obstacles and determine direction. Together, these components create a responsive and adaptable navigation system suitable for various robotics applications.
+
+To maintain the robot's position at the center of a corridor or path, two ultrasonic sensors are placed on the left and right sides of the car. These sensors continuously measure the distance to the nearest  wall on each side. The key idea is to compute the difference between the left and right distances, which serves as the system’s error signal. This error is then multiplied by a proportional gain constant (Kp) to determine the amount of steering adjustment needed. This method, known as proportional control, allows the robot to steer left or right depending on how far it has drifted from the center. If the left distance is greater than the right, the car is too close to the right wall and must steer left to correct its course, and vice versa. This feedback loop ensures the robot continuously makes small adjustments to remain in the center.
+
+While the ultrasonic sensors handle basic centering, the robot also needs to detect and avoid obstacles that may appear directly in its path. This is where the Pixy Cam plays a crucial role. The Pixy Cam is a color based vision sensor capable of recognizing and tracking objects by their color signatures. For this setup, the Pixy Cam is programmed to detect two specific colors: green and red. These colors represent directional commands green signals the car to turn left, while red instructs it to turn right.
+
+When the Pixy Cam detects a green object in the robot’s path, it overrides the normal centering behavior. The robot temporarily shifts control from the ultrasonic sensors to the Pixy Cam’s input, initiating a left turn maneuver to avoid the green obstacle. Similarly, when a red object is detected, the robot turns right. This override mechanism ensures that color-based visual input has priority in urgent navigation situations, such as avoiding an object directly ahead. Once the obstacle is no longer in view, the robot resumes its original path correction using the ultrasonic sensors and proportional steering.
+
+In conclusion, combining two ultrasonic sensors with proportional gain allows a robot car to effectively stay centered between boundaries, providing stability and accuracy. Integrating a Pixy Cam introduces the ability to detect and respond to colored obstacles intelligently. This hybrid approach of sensor fusion using both distance and vision data creates a robust navigation system that is both reactive and adaptive, which is essential in autonomous robotics.
 
 # Engineering Factor
 
@@ -147,3 +156,4 @@ Next, we connected those wires to jumper wires, which could plug into the small 
 We made sure the connections were clean and well insulated, using electrical tape or heat shrink tubing to prevent any short circuits. Since both devices use the same 5V power level, we didn’t need any extra electronics to make it safe.
 
 Once everything was connected, the EV3 was able to communicate with the PixyCam2 right away. The camera sent information about what it could see like object locations and colors and the EV3 used that data to control the robot’s actions. With this setup, our robot could follow lines, detect certain colors, and respond to moving objects just like a more advanced machine, but using only LEGO parts and a smart camera.
+
