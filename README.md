@@ -113,6 +113,8 @@ We used LEGO Mindstorms to program our EV3 robot, managing motor control and sen
 <img width="1849" height="269" alt="Screenshot 2025-07-17 150752" src="https://github.com/user-attachments/assets/b3a832b6-4d12-4b35-bd53-028e5075961b" />
 <img width="1621" height="233" alt="Screenshot 2025-07-17 150808" src="https://github.com/user-attachments/assets/15b256b6-7da4-4d13-9375-b8e09984ce1b" />
 
+To maintain our robot's position at the center of a corridor or path, we placed two ultrasonic sensors on the left and right sides of the chassis. These sensors continuously measure the distance to the nearest wall on each side. The key idea is to calculate the difference between the left and right distances this difference is treated as the system’s error. We multiply this error by a proportional gain constant to determine how much the robot should steer. This method, called proportional control, lets our robot automatically adjust its direction depending on how far it has drifted from the center. For example, if the left distance is greater than the right, the robot is too close to the right wall and needs to steer left to correct itself, and vice versa. This feedback system allows the robot to constantly make small adjustments to stay centered.
+
 ## Obstacle Challenge
 <img width="1815" height="704" alt="Screenshot 2025-07-17 145845" src="https://github.com/user-attachments/assets/e561b8e3-3959-4bf5-8ebd-f3238a258bfb" />
 <img width="1144" height="458" alt="Screenshot 2025-07-17 145955" src="https://github.com/user-attachments/assets/d209d8fa-bd4e-4f5b-a84b-98e651823204" />
