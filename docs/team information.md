@@ -4,8 +4,6 @@
 
 Marc is a grade 12 student at Toplink Global College Inc. He is passionate about coding, mobile games, and technology. He enjoys developing programs and uncovering the mechanics behind the games he plays. Beyond the screen, he’s a dedicated cyclist and finds joy in playing the guitar. With a blend of creativity and focus, Marc balances logic with artistic expression, always striving to learn, improve, and grow.
 
-<img src="https://github.com/user-attachments/assets/397af374-0671-4f76-87bc-75527675095b"width="150" height="280">
-
 **Andrei Jerome M. Manalansan**                                                                                                                                  
 **Team Builder/Placer**                                                                                                                                                          
 **Age:17**          
