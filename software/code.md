@@ -2,7 +2,7 @@
 
 
 # Obstacle Challenge
-<img width="1815" height="704" alt="Screenshot 2025-07-17 145845" src="https://github.com/user-attachments/assets/e561b8e3-3959-4bf5-8ebd-f3238a258bfb" />
+<img width="1429" height="158" alt="Screenshot 2025-07-17 154112" src="https://github.com/user-attachments/assets/5c220d02-5d57-4140-bbf3-1678c63f5618" />
 <img width="1144" height="458" alt="Screenshot 2025-07-17 145955" src="https://github.com/user-attachments/assets/d209d8fa-bd4e-4f5b-a84b-98e651823204" />
 <img width="1082" height="227" alt="Screenshot 2025-07-17 150017" src="https://github.com/user-attachments/assets/dc8bb6aa-6b2f-46f3-8302-d2df28e588a5" />
 <img width="1200" height="448" alt="Screenshot 2025-07-17 150042" src="https://github.com/user-attachments/assets/984bcb9a-e719-4ac4-8ae9-12be06834efb" />
