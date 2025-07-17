@@ -7,10 +7,6 @@
 **Size:** 270mm x 170mm with 150mm in height
 
 > [!NOTE]
-> Did you know why we named our robot katalista?
-> Well katalista is more than just a name. It represents who we are, where we come from, and what we aim to do as a team.
-
-> [!NOTE]
 > A short trivia!
 The word "Katalista" is the Tagalog equivalent of the English word "Catalyst." In science, a catalyst is a substance that speeds up a chemical reaction without being consumed or changed in the process. It plays a vital role—it doesn’t cause the reaction itself, but it makes it happen faster, easier, and with less energy.
 
