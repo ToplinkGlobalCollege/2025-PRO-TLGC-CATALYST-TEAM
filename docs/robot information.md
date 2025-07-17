@@ -10,7 +10,7 @@
 > Did you know why we named our robot katalista?
 > Well katalista is more than just a name. It represents who we are, where we come from, and what we aim to do as a team.
 
-a short trivia! 
+> a short trivia!
 The word "Katalista" is the Tagalog equivalent of the English word "Catalyst." In science, a catalyst is a substance that speeds up a chemical reaction without being consumed or changed in the process. It plays a vital role—it doesn’t cause the reaction itself, but it makes it happen faster, easier, and with less energy.
 
 But over time, the meaning of the word “catalyst” has grown far beyond chemistry. In modern usage, especially in engineering, business, technology, and life, a catalyst is:
