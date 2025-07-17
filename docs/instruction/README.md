@@ -1,3 +1,2 @@
-This file provides step-by-step instructions to help you build our autonomous robot. The assembly process is illustrated entirely with images for clear visual guidance.
-
-A PDF file is provided above.
+This file contains step-by-step visual instructions for assembling our autonomous robot. The entire construction process is illustrated using clear images to ensure accuracy and ease of replication.
+Please refer to the PDF file provided above for the complete build guide.
