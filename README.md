@@ -106,25 +106,6 @@ Our robot uses a pixy2 camera helps the robot detect colored objects in front of
 
 We used LEGO Mindstorms to program our EV3 robot, managing motor control and sensor input to perform tasks and navigate its environment.
 
-# Improvements
-We improved the robot by replacing the color sensor with a gyro sensor, since the color sensor was often unreliable due to poor lighting and being too dependent on surface color. The gyro sensor provides more accurate and consistent turning. We also enhanced the walling system so it rotates more smoothly and better protects the robot when it gets close to walls, especially shielding the Pixy camera from direct contact. To improve space and wiring, we moved the Pixy camera to the top of the robot, as placing it beside the medium motor made the area too crowded and hard to manage wires. Lastly, we upgraded the rear wheels to a larger size, which gave the robot better traction, more stability, and smoother forward movement on the mat.
-
-## 3
-![Improvement 3](https://github.com/user-attachments/assets/502308c7-651a-43df-99d6-5a48a1d06814)
-<img width="3048" height="1297" alt="Improvement(3 1)" src="https://github.com/user-attachments/assets/f1327b43-0fcf-4032-a2d0-a96ad33585b4" />
-
-## 3.1
-<img width="3048" height="4064" alt="Improvement(4)" src="https://github.com/user-attachments/assets/968ec2e9-6dba-4fb6-ac80-c1a62b39e640" />
-<img width="3048" height="1328" alt="Improvement(4 1)" src="https://github.com/user-attachments/assets/d3c9dfb7-37f5-47b2-bacd-c943ffc5719e" />
-
-## 3.2
-![Improvement 3 2(1)](https://github.com/user-attachments/assets/85c2ae1a-bbd4-44c5-976d-38954a6f7837)
-![Improvement 3 2(1 1)](https://github.com/user-attachments/assets/6dfa9d75-57b3-456e-af80-f41d7e5564f7)
-
-
-> [!NOTE]
-> The other improvements is inside the docs folder
-
 # Code Management
 
 ## Open Challenge
@@ -159,4 +140,23 @@ Once everything was connected, the EV3 was able to communicate with the PixyCam2
 
 In our project, we used the PixyCam2 smart camera with a LEGO Mindstorms EV3 robot, and to mount the camera, we used the metal bracket that comes with the PixyCam2. This small L shaped bracket has screw holes, so it was easy to attach the camera securely to our robot. We mainly used it to lower the camera’s point of view, helping the PixyCam2 better focus on the area directly in front of the robot. We adjusted the tilt by hand before tightening the screws to hold it in place. Even though the bracket isn’t motorized, it kept the camera steady during operation. This simple setup gave us a reliable and flexible way to position the camera without needing any extra parts.
 
+# Improvements
+We improved the robot by replacing the color sensor with a gyro sensor, since the color sensor was often unreliable due to poor lighting and being too dependent on surface color. The gyro sensor provides more accurate and consistent turning. We also enhanced the walling system so it rotates more smoothly and better protects the robot when it gets close to walls, especially shielding the Pixy camera from direct contact. To improve space and wiring, we moved the Pixy camera to the top of the robot, as placing it beside the medium motor made the area too crowded and hard to manage wires. Lastly, we upgraded the rear wheels to a larger size, which gave the robot better traction, more stability, and smoother forward movement on the mat.
+
+## 3
+![Improvement 3](https://github.com/user-attachments/assets/502308c7-651a-43df-99d6-5a48a1d06814)
+<img width="3048" height="1297" alt="Improvement(3 1)" src="https://github.com/user-attachments/assets/f1327b43-0fcf-4032-a2d0-a96ad33585b4" />
+
+## 3.1
+<img width="3048" height="4064" alt="Improvement(4)" src="https://github.com/user-attachments/assets/968ec2e9-6dba-4fb6-ac80-c1a62b39e640" />
+<img width="3048" height="1328" alt="Improvement(4 1)" src="https://github.com/user-attachments/assets/d3c9dfb7-37f5-47b2-bacd-c943ffc5719e" />
+
+## 3.2
+![Improvement 3 2(1)](https://github.com/user-attachments/assets/85c2ae1a-bbd4-44c5-976d-38954a6f7837)
+![Improvement 3 2(1 1)](https://github.com/user-attachments/assets/6dfa9d75-57b3-456e-af80-f41d7e5564f7)
+
+
+> [!NOTE]
+> The other improvements is inside the docs folder
+> 
 # Credits 
