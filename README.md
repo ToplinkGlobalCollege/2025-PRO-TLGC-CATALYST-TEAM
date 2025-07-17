@@ -109,6 +109,9 @@ We used LEGO Mindstorms to program our EV3 robot, managing motor control and sen
 # Code Management
 
 ## Open Challenge
+<img width="1724" height="189" alt="Screenshot 2025-07-17 150729" src="https://github.com/user-attachments/assets/02fc3278-f444-4d90-a65b-86cbf910a10c" />
+<img width="1849" height="269" alt="Screenshot 2025-07-17 150752" src="https://github.com/user-attachments/assets/b3a832b6-4d12-4b35-bd53-028e5075961b" />
+<img width="1621" height="233" alt="Screenshot 2025-07-17 150808" src="https://github.com/user-attachments/assets/15b256b6-7da4-4d13-9375-b8e09984ce1b" />
 
 ## Obstacle Challenge
 <img width="1815" height="704" alt="Screenshot 2025-07-17 145845" src="https://github.com/user-attachments/assets/e561b8e3-3959-4bf5-8ebd-f3238a258bfb" />
