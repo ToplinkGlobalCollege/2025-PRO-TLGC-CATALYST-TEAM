@@ -157,4 +157,6 @@ We made sure the connections were clean and well insulated, using electrical tap
 
 Once everything was connected, the EV3 was able to communicate with the PixyCam2 right away. The camera sent information about what it could see like object locations and colors and the EV3 used that data to control the robot’s actions. With this setup, our robot could follow lines, detect certain colors, and respond to moving objects just like a more advanced machine, but using only LEGO parts and a smart camera.
 
+In our project, we used the PixyCam2 smart camera with a LEGO Mindstorms EV3 robot, and to mount the camera, we used the metal bracket that comes with the PixyCam2. This small L shaped bracket has screw holes, so it was easy to attach the camera securely to our robot. We mainly used it to lower the camera’s point of view, helping the PixyCam2 better focus on the area directly in front of the robot. We adjusted the tilt by hand before tightening the screws to hold it in place. Even though the bracket isn’t motorized, it kept the camera steady during operation. This simple setup gave us a reliable and flexible way to position the camera without needing any extra parts.
+
 # Credits 
