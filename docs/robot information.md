@@ -16,7 +16,7 @@ Our EV3 autonomous robot employs a custom front wheel steering mechanism based o
 
 ## Motors Used
 ### Large Motor
-![Uploading 45502-1-removebg-preview.png…]()
+<img width="567" height="440" alt="45502-1-removebg-preview" src="https://github.com/user-attachments/assets/6717787f-a92a-45a7-a58c-52b32eb69805" />
 
 ### Medium Motor
 <img width="333" height="333" alt="ar-ev3-medium-servo-motor-1139-removebg-preview" src="https://github.com/user-attachments/assets/b7e79cc4-5961-4763-a34b-bb36f2e45b51" />
