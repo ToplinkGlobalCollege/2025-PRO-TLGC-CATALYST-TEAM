@@ -23,8 +23,7 @@ Our team consists of three dedicated members who carefully manage the key aspect
 **Marc Vincent B. Cortez**(Right)                                                                                                                              
 
 **Andrei Jerome M. Manalansan**(Left)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://www.facebook.com/share/16bncUjy9o/ )
-https://www.facebook.com/share/16bncUjy9o/                                                                                                                        
+[![Facebook](https://img.shields.io/badge/Facebook-Page-1877F2?style=flat&logo=facebook&logoColor=white)][(https://facebook.com/yourusername](https://www.facebook.com/share/16bncUjy9o/   ))                                                                                                               
 https://www.instagram.com/beezlebobbb?igsh=aDJhdGhrMmpxZzFn
 
 **Yasser M. Lapaz**(Middle)                                                                                                                                    
