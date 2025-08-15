@@ -1,20 +1,20 @@
 ## Full View
-![TLGC Catalyst Robot](https://github.com/user-attachments/assets/9eab7df2-d8ef-4700-9e72-295631cccf4a)
+![Isometric View](https://github.com/user-attachments/assets/771acc3d-68e5-4b0f-acbc-ed63974cc07b)
 
 ## Right Side View
-![Right Side View](https://github.com/user-attachments/assets/c06fc3f1-a380-401d-8eea-67473af2c533)
+![Right Side View](https://github.com/user-attachments/assets/ee573589-04a0-45d0-a58a-b0a59f3baa21)
 
 ## Left Side View
-![Left Side View](https://github.com/user-attachments/assets/4eb8c1f4-cec1-4e7b-bc19-3dc8f37258e6)
+![Left Side View](https://github.com/user-attachments/assets/5ed84fbd-9c2b-4061-ad27-5b1079bc029d)
 
 ## Front View
-![Front View](https://github.com/user-attachments/assets/71e15a84-f7ba-484d-bbd2-4ab77c2177ce)
+![Front View](https://github.com/user-attachments/assets/b39e2e86-54fa-4202-ac0e-1e45e679f66f)
 
 ## Back View
-![Back View](https://github.com/user-attachments/assets/9f8d9117-b112-44f7-8630-e52369edf328)
+![Back View](https://github.com/user-attachments/assets/f74cf10f-59cd-46e5-96c2-7a50c421914c)
 
 # Top View
-![Top View](https://github.com/user-attachments/assets/2d55da5b-2546-4c02-ae4c-55e9f93a0517)
+![Top View](https://github.com/user-attachments/assets/bc58d613-1e70-4291-adc7-694cbb38e2ae)
 
 # Bottom View
-![Bottom View](https://github.com/user-attachments/assets/b2bc12d3-0cd4-46de-bced-dff62ec166a4)
+![Bottom View](https://github.com/user-attachments/assets/69155b97-dc5e-45e4-a81a-10ea88dd2379)
