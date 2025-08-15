@@ -1,5 +1,5 @@
 # Robot Info
-![TLGC Catalyst Robot](https://github.com/user-attachments/assets/9eab7df2-d8ef-4700-9e72-295631cccf4a)
+![Isometric View](https://github.com/user-attachments/assets/c3d28351-050e-4d2f-a7ee-f4f039d0e70d)
 **Name:** Katalista
                                                                                                                                                                    
 **Weight:** 0.8 kg
