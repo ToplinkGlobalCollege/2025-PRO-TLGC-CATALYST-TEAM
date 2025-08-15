@@ -9,7 +9,7 @@
 > [!NOTE]
 > Did you know why we named our robot katalista? Well katalista is more than just a name. It represents who we are, where we come from, and what we aim to do as a team.
  # A short trivia!
-The word "Katalista" is the Tagalog equivalent of the English word "Catalyst." In science, a catalyst is a substance that speeds up a chemical reaction without being consumed or changed in the process. It plays a vital role—it doesn’t cause the reaction itself, but it makes it happen faster, easier, and with less energy.
+The word "Katalista" is the Tagalog equivalent of the English word "Catalyst." In science, a catalyst is a substance that speeds up a chemical reaction without being consumed or changed in the process. It plays a vital role, it doesn’t cause the reaction itself, but it makes it happen faster, easier, and with less energy.
 
 But over time, the meaning of the word “catalyst” has grown far beyond chemistry. In modern usage, especially in engineering, business, technology, and life, a catalyst is:
 
@@ -19,14 +19,14 @@ In this context, a catalyst can be someone who inspires innovation, an event tha
 
 So why did we name our robot Katalista?
 
-First, it reflects our identity. Our team—TLGC Catalyst—is proudly based in the Philippines, and using Tagalog for the name honors our language, culture, and local roots. Naming our robot “Katalista” connects our engineering journey to who we are as Filipinos.
+First, it reflects our identity. Our team, TLGC Catalyst is proudly based in the Philippines, and using Tagalog for the name honors our language, culture, and local roots. Naming our robot “Katalista” connects our engineering journey to who we are as Filipinos.
 
-Second, it reflects our mission. We began training in May 2025, just three months ago. In that short time, we’ve learned, built, and grown rapidly. Like a true catalyst, our robot symbolizes rapid progress, intelligent problem-solving, and the ability to spark change—in ourselves, in our community, and in the world of robotics.
+Second, it reflects our mission. We began training in May 2025, just three months ago. In that short time, we’ve learned, built, and grown rapidly. Like a true catalyst, our robot symbolizes rapid progress, intelligent problem solving, and the ability to spark change in ourselves, in our community, and in the world of robotics.
 
 Katalista is not just a machine. It is a symbol of transformation, a driver of innovation, and a promoter of change. Just as a chemical catalyst makes reactions more efficient, our robot is designed to make systems smarter, processes faster, and ideas come to life.
 
-With Katalista, we don’t just participate—we initiate.
-We don’t just follow change—we drive it.                                                                                                                                                                                                                                                   
+With Katalista, we don’t just participate we initiate.
+We don’t just follow change we drive it.                                                                                                                                                                                                                                                   
 # Mobility
 
 ## Drive System Used
@@ -47,7 +47,7 @@ We used the Large Motor to drive our robot forward because it’s strong and can
 
 # Power System
 ## Main Power Source
-We’ve powered our self-driving car using the EV3 rechargeable battery, which provides a stable energy supply to ensure smooth and consistent operation. This battery serves as the main power source for our robot.
+We’ve powered our self driving car using the EV3 rechargeable battery, which provides a stable energy supply to ensure smooth and consistent operation. This battery serves as the main power source for our robot.
 <img width="1335" height="1696" alt="Battery Source" src="https://github.com/user-attachments/assets/5939e7b1-b03f-4d41-bfef-d27653e3c9d5" />
 
 ## Voltage and Current Details
